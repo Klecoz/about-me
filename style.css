@@ -58,6 +58,10 @@ body {
   display: inline-block;
 }
 
+.social {
+  padding:0;
+}
+
 .content-footer > p {
   color: white;
 }
@@ -89,4 +93,21 @@ body {
 
 a:link, a:visited, a:hover, a:active {
   color:#FFF;
+}
+
+/* Media Queries */
+
+@media screen and (max-width: 500px) {
+  .masthead {
+    padding:  3em 0;
+  }
+  .masthead-heading {
+    font-size: 4em;
+    color:black;
+    text-shadow: 1px 1px 1px #D7664B;
+  }
+
+  .masthead-intro  {
+    color:white;
+  }
 }
