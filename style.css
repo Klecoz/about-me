@@ -96,6 +96,23 @@ a:link, a:visited, a:hover, a:active {
   color:#FFF;
 }
 
+/*Portfolio section styles */
+
+.portfolio ul {
+  -webkit-padding-start: 0px;
+}
+
+.line1 li, .line2 li {
+  list-style-type: none;
+  display: inline;
+}
+
+.portfolio img {
+  border-radius: 25px;
+  border: 1px dotted black;
+}
+
+
 /* Media Queries */
 
 @media screen and (max-width: 500px) {
