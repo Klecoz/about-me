@@ -102,6 +102,10 @@ a:link, a:visited, a:hover, a:active {
   -webkit-padding-start: 0px;
 }
 
+a:link, a:visited, a:hover, a:active {
+  color:black;
+}
+
 .line1 li, .line2 li {
   list-style-type: none;
   display: inline;
