@@ -74,6 +74,10 @@ body {
   letter-spacing: 0.05em;
 }
 
+.introduction a:link, .introduction a:visited, .introduction a:hover, .introduction a:active {
+  color:black;
+}
+
 .questions-section > h2 {
   /* Typography Declarations */
    font-family: "Gentium Book Basic", Georgia, serif;
@@ -102,7 +106,7 @@ a:link, a:visited, a:hover, a:active {
   -webkit-padding-start: 0px;
 }
 
-a:link, a:visited, a:hover, a:active {
+.portfolio a:link, .portfolio a:visited, .portfolio a:hover, .portfolio a:active {
   color:black;
 }
 
