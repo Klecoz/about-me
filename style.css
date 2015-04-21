@@ -136,4 +136,9 @@ a:link, a:visited, a:hover, a:active {
   .masthead-intro  {
     color:white;
   }
+
+  .portfolio img {
+    width: 100%;
+    text-align: center;
+  }
 }
