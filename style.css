@@ -150,28 +150,3 @@ a:link, a:visited, a:hover, a:active {
     text-align: center;
   }
 }
-
-@media only screen and (min-width : 321px) {
-  .masthead {
-    padding:  3em 0;
-  }
-  .masthead-heading {
-    font-size: 4em;
-    color:black;
-    text-shadow: 1px 1px 1px #D7664B;
-  }
-
-  .masthead-intro  {
-    color: #D7664B;
-    text-shadow: 2px 2px 2px black;
-  }
-
-  .introduction h1 {
-    margin-top: 3em;
-  }
-
-  .portfolio img {
-    width: 100%;
-    text-align: center;
-  }
-}
