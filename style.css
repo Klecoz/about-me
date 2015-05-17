@@ -126,7 +126,7 @@ a:link, a:visited, a:hover, a:active {
 
 /* Media Queries */
 
-@media only screen and (max-width : 320px) {
+@media only screen and (max-width : 400px) {
   .masthead {
     padding:  3em 0;
   }
