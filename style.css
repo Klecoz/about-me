@@ -66,6 +66,10 @@ body {
   padding:0;
 }
 
+.social a {
+  font-size: 3.5em;
+}
+
 .content-footer > p {
   color: white;
 }
