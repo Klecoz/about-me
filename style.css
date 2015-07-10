@@ -20,9 +20,9 @@ body {
 }
 
 .masthead {
-  padding: 6em 0;
+  padding: 1em 0;
   background: url('cover.jpeg') no-repeat -800px -900px;
-  border-top: solid 1em #1f1320;
+  border-top: solid 1em #B8D97B;
 
 }
 
@@ -30,16 +30,21 @@ body {
   margin-bottom: 0.1em;
   font-family: "Gentium Book Basic", Georgia, serif;
   font-size: 2em;
+  color: #B8D97B;
+  text-shadow: 1px 1px 1px #000;
+  margin-top: 3em;
 }
 
 .masthead-heading {
-  margin-top: -0.2em;
+  margin-top: -0.1em;
   font-family: "Open Sans", "Helvetica Neue", sans-serif;
   font-weight: bold;
-  font-size: 6em;
+  font-size: 8em;
   letter-spacing: -0.02em;
   text-transform: uppercase;
 }
+
+
 
 .introduction,
 .location,
