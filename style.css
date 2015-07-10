@@ -139,17 +139,16 @@ a:link, a:visited, a:hover, a:active {
 
 @media only screen and (max-width : 400px) {
   .masthead {
-    padding:  3em 0;
+    padding: 0;
+    background: url('cover.jpeg') no-repeat -1350px -1000px;
+    padding-bottom: 1em;
   }
   .masthead-heading {
     font-size: 4em;
-    color:black;
-    text-shadow: 1px 1px 1px #D7664B;
   }
 
   .masthead-intro  {
-    color: #D7664B;
-    text-shadow: 2px 2px 2px black;
+    margin-top: 1em;
   }
 
   .introduction h1 {
@@ -160,4 +159,9 @@ a:link, a:visited, a:hover, a:active {
     width: 100%;
     text-align: center;
   }
+
+  section {
+  padding-left: .2em;
+  padding-right: .2em;
+}
 }
