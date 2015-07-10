@@ -114,6 +114,10 @@ a:link, a:visited, a:hover, a:active {
   color:#FFF;
 }
 
+.location a:link, .location a:visited, .location a:hover, .location a:active {
+  color:#000;
+}
+
 /*Portfolio section styles */
 
 .portfolio ul {
